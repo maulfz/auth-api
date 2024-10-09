@@ -1,0 +1,6 @@
+node_modules
+coverage
+zip
+*.env
+auth-api-app-server.pem
+package-lock.json
